@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chicken Road Game Casino — RTP 98%, Modes &amp; Tips on Сhickenroad-predictor</title>
-    <link>http://chickenroad-predictor-app.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Chicken Road Game Casino — RTP 98%, Modes &amp; Tips on Сhickenroad-predictor</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://chickenroad-predictor-app.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
