@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://chickenroad-predictor-app.com:1313/sitemap.xml
+Sitemap: http://chickenroad-predictor-app.com/sitemap.xml
