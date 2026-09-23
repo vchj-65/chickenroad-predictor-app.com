@@ -1,0 +1,11 @@
+name = "chickenroad-predictor-app-com"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=chickenroad-predictor-app.com"
+HMAC_KEY = "6b62cbd337c98238a906729c0ed6c86d1e506645ed044dae3044eab6467e9268"
+COOKIE_NAME = "c29"
+PLAY_PATH = "explore"
+BUTTON_ID = "p37afdf2561ec90cd910ae0dd73eab2e9"
+GATE_SALT = "ae02063e664a536c"
